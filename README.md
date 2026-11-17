@@ -9,7 +9,7 @@ A RuneLite plugin for members of the Grind It clan. During our clan events, it s
 3. Open the plugin's settings in RuneLite and paste the code into **Link code**. Keep it to yourself: it's how the site knows the drops are yours.
 4. In the game, turn on **Settings → Chat → Collection log - New addition notification**, so new collection log slots are picked up.
 
-When you log in, a message in your game chat confirms what the plugin is watching for. After each drop it sends, the site's answer appears in chat, e.g. *Submitted Draconic visage for Vorkath heads (waiting for review)*.
+When you log in, a message in your game chat confirms what the plugin is watching for. After each drop it sends, the site's answer appears in chat, e.g. *Submitted Draconic visage for Vorkath (waiting for review)*.
 
 ## Settings
 
